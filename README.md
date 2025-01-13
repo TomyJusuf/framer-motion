@@ -1,60 +1,73 @@
 # FRAMER MOTION
 
-#### Description
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-This project is a showcase of animations built using Framer Motion in a React environment. It highlights various animation techniques and concepts, demonstrating the power of Framer Motion for creating smooth, interactive user interfaces.
+### Description ✨
 
-#### Tech Stack:
+This project is a showcase of animations built using **Framer Motion** in a **React** environment. It highlights various animation techniques and concepts, demonstrating the power of **Framer Motion** for creating smooth, interactive user interfaces. 🚀
 
-- React
-- Framer Motion
-- TailwindCss
+### **Tech Stack** 🛠️
 
-#### Features:
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- Basic Animations:
+### **Features** 🚀
 
-  Learned how to apply initial and animate properties to create animations.
-  Used transition to control animation timing and effects.
+- **Basic Animations** 🎨:
 
-###
+  - Learned how to apply `initial` and `animate` properties to create animations.
+  - Used `transition` to control animation timing and effects.
 
-- Variants:
+- **Variants** 🔄:
 
-  Created reusable animation configurations using variants.
-  Leveraged variants for defining multiple animation states efficiently.
+  - Created reusable animation configurations using `variants`.
+  - Leveraged `variants` for defining multiple animation states efficiently.
 
-###
+- **AnimatePresence** 🔁:
 
-- AnimatePresence:
+  - Implemented animations for components entering and leaving the React tree.
+  - Used `mode="wait"` to manage complex exit and entry animations.
 
-  Implemented animations for components entering and leaving the React tree.
-  Used mode="wait" to manage complex exit and entry animations.
+- **Motion Components** 🏃‍♂️:
+  - Used motion components (`motion.div`, `motion.button`, etc.) to add animations directly to React elements.
+  - Learned how to combine gestures like hover and tap animations with motion.
 
-###
-
-- Motion Components:
-
-  Used motion components (motion.div, motion.button, etc.) to add animations directly to React elements.
-  Learned how to combine gestures like hover and tap animations with motion.
-
-### What I Learned
+### **What I Learned** 📚
 
 - This project deepened my understanding of:
+  - 🎨 Structuring animations using `variants` for scalability.
+  - 🔄 Managing component lifecycle animations with `AnimatePresence`.
+  - 🎛️ Customizing animations using variables for dynamic effects.
+  - 🚀 Creating smooth, responsive animations using Framer Motion's properties like `initial`, `animate`, and `exit`.
 
-  Structuring animations using variants for scalability.
-  Managing component lifecycle animations with AnimatePresence.
-  Customizing animations using variables for dynamic effects.
-  Creating smooth, responsive animations using Framer Motion's properties like initial, animate, and exit.
+### **How to Run the Project** 🛠️
 
-#### How to Run the Project:
+- **Clone the repository** 🗂️:
 
-If you'd like, I can include instructions on how someone can clone your repository and test the project locally.
+  ```bash
+  git clone https://github.com/TomyJusuf/framer-motion.git
+  ```
 
-#### Demo Section:
+- **Navigate to the project folder** 📂
 
-If you have a live demo link (e.g., on Netlify or Vercel), we can include that.
+```bash
+    git project-folder
+```
 
-#### Future Plans:
+- **Install dependencies** 📦
 
-Add a section about what you’d like to improve or expand on in the project.
+```bash
+      npm install
+```
+
+- **Start the development server** 🚀
+
+```bash
+      npm start
+```
+
+### Demo 🎬
+
+<a href="https://pizza-framermotion.netlify.app/">Project Link</a>
